@@ -17,7 +17,7 @@ namespace RSAviaConsole
             SIZE_1024 = 1024,
             SIZE_2048 = 2048,
             SIZE_952 = 952,
-            SIZE_1369
+            SIZE_1369 = 1369
         };
 
         static void Main(string[] args)
